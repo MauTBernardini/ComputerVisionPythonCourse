@@ -1,1 +1,3 @@
 /ObjectDetection/*.mp4
+/ObjectTracking/tracking_results/*
+/ObjectTracking/*.mp4
